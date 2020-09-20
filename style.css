@@ -1,0 +1,49 @@
+.body {
+    text-align: center;
+}
+
+.header {
+    font-family: 'Roboto Slab', serif;
+    font-size: 24pt;
+    padding: 20px;
+    background-image: url("banner.jpg");
+    color: #dddddd;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-size: 24pt;
+    color: darkslategray;
+    text-align: center;
+}
+
+.sub-title {
+    font-size: 16pt;
+    color: darkslategray;
+}
+
+.articles {
+    display: inline-block;
+}
+
+#imagem-layout {
+    width: 100px;
+    border-radius: 50%;
+    border: solid #eeeeee 4px;
+}
+.album {
+    height: 200px;
+    border: 2px solid #ffffff;
+    object-fit: cover;
+}
+
+.post {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    padding: 25px 15px 10px;
+    margin: 20px 10px;
+    background-color: #f3e8e8;
+    border-radius: 8px;
+    border: solid darkslategray 4px;
+    width: 400px;
+}
